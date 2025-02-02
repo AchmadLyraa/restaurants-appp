@@ -80,6 +80,5 @@ module.exports = {
 				},
 			],
 		}),
-		new BundleAnalyzerPlugin(),
 	],
 };
