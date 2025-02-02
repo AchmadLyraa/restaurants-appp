@@ -1,0 +1,52 @@
+{
+	"id": "restaurant-pwa-1",
+	"start_url": "./index.html",
+	"name": "Restaurant Indonesia",
+	"short_name": "Restaurant",
+	"description": "Free Catalogue Restaurant for you",
+	"display": "standalone",
+	"background_color": "#FFFFFF",
+	"theme_color": "#D84315",
+	"screenshots": [
+		{
+			"src": "icon512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"form_factor": "wide",
+			"label": "Wonder Widgets"
+		},
+		{
+			"src": "icon512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"form_factor": "narrow",
+			"label": "Wonder Widgets"
+		}
+	],
+	"icons": [
+		{
+			"src": "icon64x64.png",
+			"sizes": "64x64",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "icon128x128.png",
+			"sizes": "128x128",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "icon256x256.png",
+			"sizes": "256x256",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "icon512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any"
+		}
+	]
+}
