@@ -6,7 +6,7 @@
 	"description": "Free Catalogue Restaurant for you",
 	"display": "standalone",
 	"background_color": "#FFFFFF",
-	"theme_color": "##3E3E44",
+	"theme_color": "#3E3E44",
 	"screenshots": [
 		{
 			"src": "icon512x512.png",
